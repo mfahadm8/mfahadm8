@@ -83,6 +83,7 @@
 > Dynamic list of my blog posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Power BI with DynamoDB using Python and Web Links](https://medium.com/@mfahadm8/integrating-power-bi-with-dynamodb-using-python-and-web-links-454ac4a94882)
 <!-- BLOG-POST-LIST:END -->
 
 
