@@ -7,11 +7,12 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/mfahadm8/"><img src="assets/icons/linkedin.png"  height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:mfahadm8@gmail.com?subject=Olá%20Fahad"><img src="assets/icons/gmail.png" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.medium.com/@mfahadm8/"><img src="assets/icons/medium.png" height="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 # About Me: <br>
-#### I am a highly skilled software engineer with proficiency in backend development, AWS technologies, DevOps practices and have recently started to expand my horizon to Azure as well. I spend almost all of my spare time learning new technologies. I have a strong passion for cutting-edge, disruptive initiatives that incorporate the latest advancements in innovation, automation, AI, IIOT, and cloud technology. Reason is that I have a natural inclination to take initiative and contribute new ideas that can drive innovation and improve processes. I have worked withI have a history of proposing, developing and architecting solutions from scratch for startups and companies that I have worked with. <br> <br>
+#### I am a skilled software engineer with proficiency in backend development, AWS technologies, DevOps practices and have recently started to expand my horizon to Azure as well. I spend almost all of my spare time learning new technologies. I have a strong passion for cutting-edge, disruptive initiatives that incorporate the latest advancements in innovation, automation, AI, IIOT, and cloud technology. Reason is that I have a natural inclination to take initiative and contribute new ideas that can drive innovation and improve processes. I have worked withI have a history of proposing, developing and architecting solutions from scratch for startups and companies that I have worked with. <br> <br>
 
 
 # My Technology Stack:
@@ -82,7 +83,6 @@
 > Dynamic list of my blog posts on Medium
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 
