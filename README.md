@@ -84,6 +84,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - <a href="https://medium.com/@mfahadm8/integrating-power-bi-with-dynamodb-using-python-and-web-links-454ac4a94882" target="_blank">Integrating Power BI with DynamoDB using Python and Web Links</a>
+- <a href="https://medium.com/@mfahadm8/tagging-cloudformation-stacks-with-git-information-501b441f2411" target="_blank">Tagging CloudFormation Stacks with Git Information</a>
 <!-- BLOG-POST-LIST:END -->
 
 
